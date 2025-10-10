@@ -46,7 +46,8 @@ Ramirez Tello, Sebastian - u202316122
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación**  |
 | ----------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1         | 1809/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de capítulos: <br> **Capítulo I:** Introducción <br> **Capítulo II:** Requirements Elicitation & Analysis <br> **Capítulo III:** Requirements Specification <br> **Capítulo IV:** Product Design <br> **Capítulo V:** Product Implementation, Validation & Deployment <br> **Sprint 1:** Landing Page <br> Conclusiones <br> Bibliografía |
+| TB1         | 18/09/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de capítulos: <br> **Capítulo I:** Introducción <br> **Capítulo II:** Requirements Elicitation & Analysis <br> **Capítulo III:** Requirements Specification <br> **Capítulo IV:** Product Design <br> **Capítulo V:** Product Implementation, Validation & Deployment <br> **Sprint 1:** Landing Page <br> Conclusiones <br> Bibliografía |
+| TB2         | 10/10/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 2|
 
 <br><br><br><br>
 
@@ -2805,7 +2806,7 @@ Capítulo V: Product Implementation, Validation & Deployment
 | **Categoría** | Version Control |
 | **Herramienta** | Git (CLI/GUI) |
 | **Logo** | <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253808/git-icon-icon-md.png" width="100"> |
-| **Descripción** | El control de版本es es un componente esencial en el desarrollo de software, ya que permite gestionar y realizar un seguimiento de los cambios en el código fuente. Facilita la colaboración entre desarrolladores, ya que cada miembro del equipo puede trabajar en una copia del código y posteriormente fusionar los cambios. Esto es especialmente importante en proyectos con múltiples colaboradores, evitando conflictos y manteniendo un historial completo de modificaciones. Git es un sistema de control de版本es distribuido que permite gestionar el código localmente y compartirlo en repositorios remotos. Ofrece la posibilidad de crear ramas para trabajar en diferentes funcionalidades de manera simultánea, y posteriormente unirlas mediante operaciones como merge o rebase. |
+| **Descripción** | El control de versiones es un componente esencial en el desarrollo de software, ya que permite gestionar y realizar un seguimiento de los cambios en el código fuente. Facilita la colaboración entre desarrolladores, ya que cada miembro del equipo puede trabajar en una copia del código y posteriormente fusionar los cambios. Esto es especialmente importante en proyectos con múltiples colaboradores, evitando conflictos y manteniendo un historial completo de modificaciones. Git es un sistema de control de versiones es distribuido que permite gestionar el código localmente y compartirlo en repositorios remotos. Ofrece la posibilidad de crear ramas para trabajar en diferentes funcionalidades de manera simultánea, y posteriormente unirlas mediante operaciones como merge o rebase. |
 | **URL** | https://git-scm.com/downloads |
 
 <br>
@@ -2815,7 +2816,7 @@ Capítulo V: Product Implementation, Validation & Deployment
 | **Categoría** | Version Control |
 | **Herramienta** | GitHub |
 | **Logo** | <img src="https://th.bing.com/th/id/R.d3c974f05804e0b1e6eb7ff2564944e8?rik=xjfUeUs1lMo8FA&pid=ImgRaw&r=0" width="100"> |
-| **Descripción** | GitHub es una plataforma basada en la nube que utiliza Git para la gestión de repositorios y facilita la colaboración entre equipos de desarrollo. Además de su funcionalidad de control de版本es, GitHub ofrece herramientas adicionales para la revisión de código, seguimiento de problemas y proyectos, e integración continua. |
+| **Descripción** | GitHub es una plataforma basada en la nube que utiliza Git para la gestión de repositorios y facilita la colaboración entre equipos de desarrollo. Además de su funcionalidad de control de versiones, GitHub ofrece herramientas adicionales para la revisión de código, seguimiento de problemas y proyectos, e integración continua. |
 | **URL** | https://github.com/ |
 
 <br><br>
@@ -4223,6 +4224,124 @@ En este sprint no fue contemplada la evidencia de implementacion de servicios
   <li>La comunicación del equipo permitió identificar rápidamente errores de diseño responsive.</li>
   <li>El reparto de actividades permitió avanzar de manera equilibrada, reduciendo dependencias.</li>
 </ul>
+
+## 5.2.2. Sprint 2
+### 5.2.2.1. Sprint Planning 2
+
+El Sprint Planning es la reunión que da inicio al sprint y define qué se va a construir y cómo se logrará. Reúne al equipo Scrum para establecer un objetivo claro (Sprint Goal), seleccionar las historias de usuario más relevantes y descomponerlas en tareas concretas. Esta planificación asegura un enfoque común, organiza el trabajo de forma eficiente y alinea al equipo con la entrega de valor al usuario.
+
+A continuación se mostrará la tabla del Sprint Planning:
+
+| **Sprint #** | Sprint 2 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-04 |
+| **Hour** | 03:00 PM |
+| **Location** | Virtual |
+| **Prepared By** | Jhosep Argomedo |
+| **Attendees (to planning meeting)** | Jamil Argomedo <br> Matias Rodolfo <br> Ivan Fernando <br> Sebastian Ramirez |
+| **Sprint n - 1 Review Summary** | Durante el Sprint 2, el equipo logró implementar exitosamente los cimientos de SmartCrop. Se desarrolló y desplegó una Landing Page completa que comunica efectivamente el valor de la plataforma para los agricultores. En el frontend, se implementaron las funcionalidades core de monitoreo, incluyendo la visualización de temperatura en tiempo real y las imágenes de cultivos desde las cámaras IoT. El sistema de autenticación y perfiles de usuario fue integrado satisfactoriamente, permitiendo a los agricultores registrarse y acceder a su dashboard personalizado. El equipo destacó la efectiva integración con los sensores IoT para la captura de datos en tiempo real. |
+| **Sprint n - 1 Retrospective Summary** | El equipo identificó como principales aciertos la buena coordinación entre los desarrolladores frontend, y la calidad del diseño de la interfaz de usuario que resultó intuitiva para el perfil de agricultores. Como oportunidades de mejora, se señaló la necesidad de optimizar el rendimiento de las transmisiones de video en tiempo real y establecer protocolos más claros para el manejo de desconexiones de los sensores. Se acordó implementar un sistema de caché para las imágenes y mejorar los mensajes de error para los usuarios finales en el próximo sprint. |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | Nuestro objetivo es establecer los fundamentos de SmartCrop mediante el desarrollo de una Landing Page completa que comunique nuestro valor y las primeras funcionalidades core de la aplicación web. Creemos que esto permitirá a los agricultores entender los beneficios de nuestra plataforma y comenzar a interactuar con el monitoreo básico de sus cultivos.<br><br>Esto se confirmará cuando:<br>1. Los visitantes puedan navegar por la landing page y comprender los servicios de SmartCrop<br>2. Los usuarios registrados puedan visualizar datos de temperatura en tiempo real<br>3. El sistema pueda mostrar imágenes de cultivos desde las cámaras IoT<br>4. Los agricultores accedan a su perfil personalizado y dashboard inicial |
+| **Sprint Velocity** |  |
+| **Sum of Story Points** |  |
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+### 5.2.2.3. Sprint Backlog 2
+
+# **5.2.1.3. Sprint Backlog 2**
+
+Durante el Sprint 2, el objetivo principal fue desarrollar las funcionalidades core de la aplicación web SmartCrop, enfocándose en el frontend para proporcionar a los agricultores herramientas esenciales de monitoreo y gestión de cultivos. Se buscó implementar un dashboard integral que permita visualizar datos en tiempo real, identificar plagas mediante procesamiento de imágenes, y ofrecer recomendaciones prácticas para el manejo de cultivos.
+
+## **Tabla de Control de Estado - Sprint 2**
+
+| User Story ID | Id | Title | Description | Estimation (Hours) | Assigned To | Status |
+|---------------|-----|-------|-------------|-------------------|-------------|---------|
+| **US-015** | **T-201** | **Implementar vista de imágenes en tiempo real** | Desarrollar componente frontend para mostrar transmisión de imágenes desde cámaras IoT con actualización automática | 8 | Development team | **Done** |
+| | **T-202** | **Crear galería de historial de imágenes** | Implementar componente para navegar por imágenes históricas de cultivos (últimos 30 días) | 6 | Development team | **Done** |
+| **US-016** | **T-203** | **Desarrollar interfaz de detección de plagas** | Crear componente visual que muestre resultados de identificación de plagas con niveles de confianza | 7 | Development team | **Done** |
+| | **T-204** | **Implementar overlay de detección en imágenes** | Desarrollar sistema de superposición que marque áreas específicas donde se detectaron plagas | 5 | Development team | **Done** |
+| **US-017** | **T-205** | **Sistema de notificaciones frontend** | Implementar centro de notificaciones para alertas de plagas con diferentes niveles de urgencia | 6 | Development team | **Done** |
+| | **T-206** | **Panel de configuración de alertas** | Crear interfaz para que usuarios configuren preferencias de notificaciones por tipo de plaga | 4 | Development team | **Done** |
+| **US-018** | **T-207** | **Componente de recomendaciones de plagas** | Desarrollar sección que muestre guías detalladas de control para plagas identificadas | 6 | Development team | **Done** |
+| | **T-208** | **Sistema de búsqueda en guías** | Implementar funcionalidad de búsqueda y filtrado en la base de conocimientos de plagas | 5 | Development team | **Done** |
+| **US-019** | **T-209** | **Dashboard de monitoreo de temperatura** | Crear interfaz principal para visualizar lecturas de temperatura en tiempo real | 7 | Development team | **Done** |
+| | **T-210** | **Gráficos históricos de temperatura** | Implementar componentes de gráficos para visualizar tendencias de temperatura (24h, 7d, 30d) | 6 | Development team | **Done** |
+| **US-020** | **T-211** | **Sistema de alertas de temperatura crítica** | Desarrollar componentes para mostrar alertas visuales cuando temperatura supera límites | 5 | Development team | **Done** |
+| | **T-212** | **Panel de configuración de rangos** | Crear interfaz para establecer límites mínimos/máximos de temperatura por cultivo | 4 | Development team | **Done** |
+| **US-023** | **T-213** | **Componente de pronóstico meteorológico** | Implementar sección que muestre pronóstico del tiempo para la ubicación del agricultor | 6 | Development team | **Done** |
+| | **T-214** | **Integración visual de datos climáticos** | Crear visualizaciones para temperatura, humedad, lluvia y viento en interfaz unificada | 5 | Development team | **Done** |
+| **US-026** | **T-215** | **Sección de noticias agrícolas** | Desarrollar componente para mostrar noticias del sector con sistema de categorías | 5 | Development team | **Done** |
+| | **T-216** | **Sistema de favoritos para noticias** | Implementar funcionalidad para guardar y organizar artículos de interés | 3 | Development team | **Done** |
+| **US-027** | **T-217** | **Foro de la comunidad de agricultores** | Crear interfaz del foro con hilos de discusión y sistema de respuestas | 8 | Development team | **Done** |
+| | **T-218** | **Sistema de filtros para el foro** | Implementar filtros por tipo de cultivo, región y popularidad | 4 | Development team | **Done** |
+| **US-010** | **T-219** | **Panel de gestión de perfil de usuario** | Desarrollar interfaz completa para editar información personal y preferencias | 6 | Development team | **Done** |
+| | **T-220** | **Componente de configuración de notificaciones** | Crear sección para gestionar preferencias de alertas (email, SMS, app) | 4 | Development team | **Done** |
+| **US-011** | **T-221** | **Sistema de tutoriales interactivos** | Implementar guías paso a paso para nuevos usuarios de la plataforma | 5 | Development team | **Done** |
+| | **T-222** | **Optimización de experiencia móvil** | Asegurar que todas las interfaces sean responsive y funcionen bien en dispositivos móviles | 6 | Development team | **Done** |
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+Esta sección presenta los principales avances en la implementación técnica del proyecto EcoCrop realizados durante el sprint 2, en función de los productos comprometidos: Aplicación Web SmartCrop. Se detalla el progreso alcanzado a través de los repositorios utilizados por el equipo, identificando los commits relevantes que evidencian el desarrollo de funcionalidades, corrección de errores, mejoras en la interfaz y configuración de servicios. Esta evidencia permite evaluar el cumplimiento de los objetivos del sprint y facilita la retroalimentación en la reunión de revisión.
+
+> [!Note]
+> Se ha enviado todo el desarrollo en un solo commit, debido a que para subir los cambios al repositorio remoto, los integrantes han presentado problemas con el activation token. No obstante, todos han aportado al desarrollo.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|---------|------------|----------------|---------------------|-------------------|
+| https://github.com/SmartCrop-EcoCrop/web-application | main | 4eb1fdb | feat: add first version of web app | -- | 2025-10-10 |
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 2, se desarrollaron las funcionalidades core de la aplicación web SmartCrop, con énfasis en el dashboard de monitoreo, el sistema de detección de plagas y las herramientas de gestión de cultivos. El equipo cumplió con la implementación de todas las interfaces planificadas para el frontend, logrando una experiencia de usuario intuitiva y responsive que permite a los agricultores monitorear sus cultivos en tiempo real.
+
+Se implementaron exitosamente los componentes de visualización de temperatura, el sistema de alertas de plagas, el foro comunitario y las guías prácticas de recomendaciones, estableciendo una base sólida para la integración con los servicios backend en sprints futuros.
+
+Evidencia visual:
+
+A continuación, se presentan capturas de pantalla de las vistas implementadas en este Sprint:
+
+**Iniciar sesión**
+![alt text](image-8.png)
+
+**Dashboard de administrador**
+
+![alt text](image.png)
+
+**Monitoreo de plantas**
+
+![alt text](image-1.png)
+
+**Registro temporal**
+
+![alt text](image-2.png)
+
+**Identificación de plagas**
+
+![alt text](image-3.png)
+
+**Alertas y notificaciones**
+
+![alt text](image-4.png)
+
+**Red de agricultores**
+
+![alt text](image-5.png)
+
+**Guías prácticas**
+
+![alt text](image-6.png)
+
+**Perfil de usuario**
+
+![alt text](image-7.png)
+
+### 5.2.2.6. Team Collaboration Insights during Sprint
+
+**Colaboradores activos**
+![alt text](image-9.png)
 
 ## Conclusiones 
 <p>El proyecto <b>SmartCrop-EcoCrop</b> ha logrado definir y materializar componentes fundamentales durante el Sprint 1, tales como la landing page y sus secciones principales (Home, Partners y Pie de Página, Servicios, Sobre Nosotros, Testimonios y Contacto). Estos avances evidencian un enfoque claro en transmitir la propuesta de valor y generar confianza en los usuarios desde el primer contacto. Sin embargo, la funcionalidad técnica de la plataforma aún se encuentra en fases iniciales, lo que implica que en los siguientes sprints será crucial fortalecer la integración con el backend y las funcionalidades principales del producto.</p>
