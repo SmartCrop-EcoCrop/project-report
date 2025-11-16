@@ -4466,6 +4466,58 @@ En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driv
 | Tarea | POST       | /api/v1/tareas | Get profile by ID | Retrieve a profile by its ID          | GetProfileById |
 | Tarea | GET        | /api/v1/tareas/ | Update profile    | Update existing profile information   | UpdateProfile  |
 
+### Finca Bounded Context
+
+**FincaController**
+
+| Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Finca | GET | `/api/v1/fincas/{idFinca}` | Obtener Finca | Recupera los detalles de una finca específica por ID | `GetFincaById` |
+| Finca | PUT | `/api/v1/fincas/{idFinca}` | Actualizar Finca | Modifica los datos registrados de una finca existente | `UpdateFinca` |
+| Finca | DELETE | `/api/v1/fincas/{idFinca}` | Eliminar Finca | Elimina el registro de una finca del sistema | `DeleteFinca` |
+| Finca | POST | `/api/v1/fincas` | Registrar Finca | Crea un nuevo registro de propiedad/finca | `CreateFinca` |
+| Finca | GET | `/api/v1/fincas/usuario/{idUsuario}` | Listar por Usuario | Obtiene todas las fincas asociadas a un usuario | `GetFincasByUsuario` |
+
+### Usuario Bounded Context
+
+**UsuarioController**
+
+| Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Usuario | POST | `/api/v1/usuarios/registro` | Registrar Usuario | Crea una nueva cuenta de agricultor o administrador | `RegisterUser` |
+| Usuario | POST | `/api/v1/usuarios/login` | Iniciar Sesión | Autentica al usuario y devuelve credenciales de acceso | `LoginUser` |
+| Usuario | GET | `/api/v1/usuarios/{idUsuario}` | Perfil de Usuario | Recupera la información del perfil del usuario | `GetUserProfile` |
+
+### Monitoreo IoT Bounded Context
+
+**MonitoreoController**
+
+| Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Monitoreo | POST | `/api/v1/monitoreo/ingestar` | Ingesta de Datos | Recibe datos de temperatura/humedad desde sensores IoT | `IngestSensorData` |
+| Monitoreo | GET | `/api/v1/monitoreo/historial/{idDispositivo}` | Historial Dispositivo | Obtiene el histórico de mediciones de un sensor | `GetDeviceHistory` |
+
+### Contenido Bounded Context
+
+**ContenidoController**
+
+| Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Contenido | POST | `/api/v1/contenido/noticias` | Publicar Noticia | Crea una nueva noticia agrícola | `CreateNews` |
+| Contenido | POST | `/api/v1/contenido/comentar` | Comentar | Agrega un comentario a una publicación o guía | `AddComment` |
+| Contenido | GET | `/api/v1/contenido/noticias/recientes` | Noticias Recientes | Lista las últimas noticias agregadas al sistema | `GetRecentNews` |
+| Contenido | GET | `/api/v1/contenido/guias` | Listar Guías | Obtiene el listado de guías y tutoriales disponibles | `GetGuides` |
+| Contenido | GET | `/api/v1/contenido/comentarios/recientes` | Comentarios Recientes | Muestra los últimos comentarios de la comunidad | `GetRecentComments` |
+
+### Alerta Bounded Context
+
+**AlertaController**
+
+| Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Alerta | POST | `/api/v1/alertas/evaluar-datos-prueba` | Evaluar Riesgos | Analiza datos entrantes para detectar plagas o clima adverso | `EvaluateRiskData` |
+| Alerta | GET | `/api/v1/alertas/reglas-optimas` | Reglas de Negocio | Obtiene los parámetros configurados para disparar alertas | `GetAlertRules` |
+| Alerta | GET | `/api/v1/alertas/parcela/{idParcela}/activas` | Alertas Activas | Lista las alertas vigentes para una parcela específica | `GetActiveAlertsByParcela` |
 
 ---
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
