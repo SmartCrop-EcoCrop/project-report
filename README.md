@@ -36,7 +36,7 @@ Ramirez Tello, Sebastian - u202316122
 
 <br>
 
-### Septiembre, 2025
+### Noviembre, 2025
 
 </div>
 
@@ -47,7 +47,9 @@ Ramirez Tello, Sebastian - u202316122
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación**  |
 | ----------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | TB1         | 18/09/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de capítulos: <br> **Capítulo I:** Introducción <br> **Capítulo II:** Requirements Elicitation & Analysis <br> **Capítulo III:** Requirements Specification <br> **Capítulo IV:** Product Design <br> **Capítulo V:** Product Implementation, Validation & Deployment <br> **Sprint 1:** Landing Page <br> Conclusiones <br> Bibliografía |
-| TB2         | 10/10/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 2|
+| TP1         | 10/10/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 2|
+| TB2         | 10/10/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 3|
+
 
 <br><br><br><br>
 
@@ -175,9 +177,30 @@ A continuación, se muestran evidencias gráficas que ilustran la participación
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-        
-        - [5.2.5. Video About-the-Team](#525-video-about-the-team)
-        - [5.2.6. Video About-the-Product](#526-video-about-the-product)
+        - [5.2.2. Sprint 2](#522-sprint-1)
+            - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-1)
+            - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-1)
+            - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+            - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+            - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+            - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.3. Validation Interviews](#524-validation-interviews)
+          - [5.3.1. Diseño de Entrevistas](#5241-diseño-de-entrevistas)
+          - [5.3.2. Registro de Entrevistas](#5242-registro-de-entrevistas)
+          - [5.3.3. Evaluaciones según heurísticas](#5243-evaluaciones-según-heurísticas)
+        - [5.4. Video About-the-Team](#525-video-about-the-team)
+        - [5.5. Video About-the-Product](#526-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -204,8 +227,8 @@ He completado las entradas para los dos estudiantes faltantes, **Jhosep Jamil Ar
 
 | **Criterio Específico**   | **Acciones Realizadas**   | **Conclusiones** |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Matias Rodolfo Salcedo Champi** <br> TB: Estuve pendiente de las observaciones de mis compañeros, escuchando con atención los detalles que señalaban sobre posibles errores o mejoras. Gracias a eso pude ajustar mi parte del trabajo, corregir fallos de manera oportuna y al mismo tiempo proponer soluciones que facilitaron la integración del proyecto en general. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB: Durante el desarrollo del avance estuvimos pendientes de la información y percances que tuvo cada miembro, permitiendo tener una mejor organización a la hora de solucionar los temas y realizar todas las actividades en el tiempo indicado. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB: Durante el proceso de integración del proyecto, pude ofrecer comentarios constructivos a mis compañeros, con el objetivo de mejorar cada sección del trabajo y garantizar que los diferentes componentes fueran alineados y cohesivos. <br><br> **Sebastian Ramírez Tello** <br> TB: Siempre estuve dispuesto a colaborar y escuchar las ideas de mis compañeros, de modo que, a través del trabajo en equipo, pudiéramos resolver cualquier problema de manera eficiente. Participé activamente en las discusiones y en la planificación de las tareas. | **Matias Rodolfo Salcedo Champi** <br> TB: Comprendí que escuchar activamente las observaciones no solo ayuda a mejorar lo que uno hace, sino que también fortalece la calidad del proyecto, ya que cada integrante aporta un punto de vista distinto que enriquece el resultado final. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB: El aprendizaje obtenido durante el trabajo de este entregable es de gran importancia: tener una comunicación fluida y persistente con mi equipo para la distribución de deberes, plantear reuniones con todos los miembros, entre otras cosas, sin olvidar siempre el orden y organización. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB: Aprendí que una comunicación clara y efectiva no solo mejora la calidad del trabajo, sino que también ayuda a alcanzar los objetivos del equipo de manera más eficiente. Estar disponible para resolver dudas y aclarar puntos cruciales fue esencial para mantener el avance del proyecto. <br><br> **Sebastian Ramírez Tello** <br> TB: El trabajo en equipo y la comunicación activa me ayudaron a identificar áreas de mejora tanto en el proyecto como en la colaboración dentro del equipo. Comprendí que la comunicación constante y la retroalimentación son esenciales para que un proyecto se desarrolle con éxito. |
-| **2. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Matias Rodolfo Salcedo Champi** <br> TB: A través de la redacción de los avances pude expresar de manera clara los objetivos alcanzados y las tareas pendientes, lo que permitió que el equipo mantuviera un orden y lograra identificar qué aspectos debían reforzarse para cumplir con el trabajo en el plazo establecido. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB: Gracias al feedback recibido de los usuarios, nos ayudó a realizar mejoras respecto al proyecto tanto como equipo como desarrolladores de software, al poder complacer las principales necesidades de nuestros usuarios. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB: Redacté los informes de avance con el fin de mantener al equipo informado sobre los progresos y áreas pendientes, lo que permitió un seguimiento efectivo de cada etapa del proyecto. <br><br> **Sebastian Ramírez Tello** <br> TB: Me encargué de escribir los resúmenes de las tareas realizadas y de las decisiones importantes tomadas durante el proyecto. Esto permitió que todo el equipo estuviera al tanto del avance y facilitó la integración de nuevas ideas o sugerencias.                                                                                                                                   | **Matias Rodolfo Salcedo Champi** <br> TB: Aprendí que una buena comunicación escrita dentro del equipo facilita el control del progreso y evita confusiones sobre lo que ya se realizó y lo que falta por completar. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB: A través del desarrollo del trabajo parcial, pude comprender la importancia de identificar una solución innovadora que realmente cumpliera con las necesidades de nuestros usuarios, optimizando su labor diaria y ayudándolos a expandirse en nuevas direcciones. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB: La comunicación escrita clara y concisa permitió mantener el enfoque en los objetivos del proyecto, ayudando a que todos los miembros estuvieran alineados y trabajando en las mismas metas. <br><br> **Sebastian Ramírez Tello** <br> TB: Comprendí que la comunicación escrita es clave para transmitir de manera efectiva el progreso y las conclusiones alcanzadas, lo que facilita la comprensión y la toma de decisiones para los siguientes pasos del proyecto.                                                                                                                                                                                                                                                   |
+| **1. Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Matias Rodolfo Salcedo Champi** <br> TB1: Estuve pendiente de las observaciones de mis compañeros, escuchando con atención los detalles que señalaban sobre posibles errores o mejoras. Gracias a eso pude ajustar mi parte del trabajo, corregir fallos de manera oportuna y al mismo tiempo proponer soluciones que facilitaron la integración del proyecto en general. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB1: Durante el desarrollo del avance estuvimos pendientes de la información y percances que tuvo cada miembro, permitiendo tener una mejor organización a la hora de solucionar los temas y realizar todas las actividades en el tiempo indicado. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB1: Durante el proceso de integración del proyecto, pude ofrecer comentarios constructivos a mis compañeros, con el objetivo de mejorar cada sección del trabajo y garantizar que los diferentes componentes fueran alineados y cohesivos. <br><br> **Sebastian Ramírez Tello** <br> TB1: Siempre estuve dispuesto a colaborar y escuchar las ideas de mis compañeros, de modo que, a través del trabajo en equipo, pudiéramos resolver cualquier problema de manera eficiente. Participé activamente en las discusiones y en la planificación de las tareas.<br>**Matias Rodolfo Salcedo Champi** <br> TP1: Durante el desarrollo del frontend, estuve en constante comunicación con mis compañeros para coordinar la integración de los componentes. Escuché sus observaciones y sugerencias, lo que me permitió ajustar la configuración general y asegurar que el diseño fuera coherente y funcional para el equipo.  <br><br> **Ivan Fernando Sanchez Guevara** <br> TP1: Me mantuve atento a los avances del equipo, especialmente en la organización de tareas. Participé en la ayuda para arreglar ciertos errores del frontend y además ayudar a mis compañero en lo que necesitara, lo que ayudó a cumplir con los tiempos establecidos. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TP1: Durante el desarrollo del Spring 2, me encargué de organizar las tareas del Grupo junto y completar el Spring en cuestión. Me aseguré de que todos los componentes estuvieran alineados y ofrecí feedback para mejorar la integración del proyecto <br><br> **Sebastian Ramírez Tello** <br> TP1: Estuve en comunicación constante con el equipo para corregir errores en la documentación y asegurar que el spring 2 cumpliera con los pedido. También colaboré en la planificación de tareas y resolución de problemas técnicos.<br>**Matias Rodolfo Salcedo Champi** <br> TB2: Participé en reuniones con Mi grupo para coordinar y realizar los segmentos 5.2.3.6 hasta 5.2.3.8. Realizando las tablas de los bounded context, entre poner la evidencia de lo trabajado en grupo. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB2: Realize principalmente el Spring 3, donde priorice que todos los segmento cumpla con lo pedido, además de realizar las entrevista de la aplicación desplegada <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB2: Realice junto a mis compañero el Backend, ya que requeria de mucho cuidado para que funcionara correctamente, ademas de apoyar a mis compañeros como organizarlos <br><br> **Sebastian Ramírez Tello** <br> TB2: Ayude en el desarrollo del backend siendo el principal codificador, permitiendo que funcionara lo mejor posible, conectandolo al MySQL sin problemas y desplegado en linea | **Matias Rodolfo Salcedo Champi** <br> TB1: Comprendí que escuchar activamente las observaciones no solo ayuda a mejorar lo que uno hace, sino que también fortalece la calidad del proyecto, ya que cada integrante aporta un punto de vista distinto que enriquece el resultado final. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB1: El aprendizaje obtenido durante el trabajo de este entregable es de gran importancia: tener una comunicación fluida y persistente con mi equipo para la distribución de deberes, plantear reuniones con todos los miembros, entre otras cosas, sin olvidar siempre el orden y organización. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB1: Aprendí que una comunicación clara y efectiva no solo mejora la calidad del trabajo, sino que también ayuda a alcanzar los objetivos del equipo de manera más eficiente. Estar disponible para resolver dudas y aclarar puntos cruciales fue esencial para mantener el avance del proyecto. <br><br> **Sebastian Ramírez Tello** <br> TB1: El trabajo en equipo y la comunicación activa me ayudaron a identificar áreas de mejora tanto en el proyecto como en la colaboración dentro del equipo. Comprendí que la comunicación constante y la retroalimentación son esenciales para que un proyecto se desarrolle con éxito.<br> **Matias Rodolfo Salcedo Champi** <br> TP1: Comprendi que realizar a profundiad y experimentar, puede traer resultados a la hora de realizar el frontend con mis compañeros, obvio siempre y cuando me entiendan bien <br><br> **Ivan Fernando Sanchez Guevara** <br> TP1: Arpendi que aun si el problema o en este caso codigo se vea complicado, solo tengo que ser paciente, consultar con mis compañeros para identificar los problemas  <br><br> **Jhosep Jamil Argomedo Camacho** <br> TP1: Comprendi en mantener la coherencia durante la entrega de trabajo en la comunicacion con mis compañeros, para evitar confunciones <br><br> **Sebastian Ramírez Tello** <br> TP1: Reforze que aun con problemas en algunas partes siempre puedo contar con mi grupo para comunicarme y  solucionarlo <br> **Matias Rodolfo Salcedo Champi** <br> TB2: arpendi a siempre pedir ayuda aunque piense que no se podra, respecto a mi grupo <br><br> **Ivan Fernando Sanchez Guevara** <br> TB2: la comunicacion fue una parte vital a la hora de realizar mi parte del trabajo<br><br> **Jhosep Jamil Argomedo Camacho** <br> TB2: la comunicacion fue el medio por donde organize a mi grupo para realizar el mejor trabajo posible <br><br> **Sebastian Ramírez Tello** <br> TB2: |
+| **2. Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Matias Rodolfo Salcedo Champi** <br> TB1: A través de la redacción de los avances pude expresar de manera clara los objetivos alcanzados y las tareas pendientes, lo que permitió que el equipo mantuviera un orden y lograra identificar qué aspectos debían reforzarse para cumplir con el trabajo en el plazo establecido. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB: Gracias al feedback recibido de los usuarios, nos ayudó a realizar mejoras respecto al proyecto tanto como equipo como desarrolladores de software, al poder complacer las principales necesidades de nuestros usuarios. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB: Redacté los informes de avance con el fin de mantener al equipo informado sobre los progresos y áreas pendientes, lo que permitió un seguimiento efectivo de cada etapa del proyecto. <br><br> **Sebastian Ramírez Tello** <br> TB: Me encargué de escribir los resúmenes de las tareas realizadas y de las decisiones importantes tomadas durante el proyecto. Esto permitió que todo el equipo estuviera al tanto del avance y facilitó la integración de nuevas ideas o sugerencias. <br> **Matias Rodolfo Salcedo Champi** <br> TP1: Gracias a la retro alimentacion del profesor, mejoramos varios aspectos del documento, como realizamos lo mejor posiblen el frontend de nuestro proyecto <br><br> **Ivan Fernando Sanchez Guevara** <br> TP1: El feedback dado, nos permitio arreglar doc en si, como ayudarnos en la creacion del frontend dando por avanzado gran parte de este  <br><br> **Jhosep Jamil Argomedo Camacho** <br> TP1: El entregable anterior nos ayudo en mejorar los espectos faltantes para desarrollar bien este entregable que fue el spring 2, donde la comunicacion con mis compañeros fue fundamental <br><br> **Sebastian Ramírez Tello** <br> TP1: Juntos a mi grupo realizamos el siguiente entregable respecto al spring 2 y el frontend para seguir avanzando y entendiendo el curso en cuestion <br> **Matias Rodolfo Salcedo Champi** <br> TB2: En esta parte realizamos mis compañeros y yo el Backend y el spring 3, principalmente ayude en la organizacion y ayuda respecto a la estructuracion del spring 3 junto a arrelgo de errores mencionado en el anterior entregable  <br><br> **Ivan Fernando Sanchez Guevara** <br> TB2: En esta oportunidad realice el spring 3, desde el segmente 5.2.3 hasta 5.5, con ayuda de mis compañeros en ciertas partes  <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB2: junto a mis compañero desarrolle el backend apoyando en la solucion de errores que este surgia, aunque no siempre sabia del tema, mis compañeros siempre me dieron una mano para completarla lo mejor posible <br><br> **Sebastian Ramírez Tello** <br> TB2: Principalmente Desarroller el backend conectandolo con el MySQL en cuesto con una database ya desarrollada, junto a mis compañeros hicieron que fuera posible su ejecucion sin problemas.                                                                                                                          | **Matias Rodolfo Salcedo Champi** <br> TB: Aprendí que una buena comunicación escrita dentro del equipo facilita el control del progreso y evita confusiones sobre lo que ya se realizó y lo que falta por completar. <br><br> **Ivan Fernando Sanchez Guevara** <br> TB: A través del desarrollo del trabajo parcial, pude comprender la importancia de identificar una solución innovadora que realmente cumpliera con las necesidades de nuestros usuarios, optimizando su labor diaria y ayudándolos a expandirse en nuevas direcciones. <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB: La comunicación escrita clara y concisa permitió mantener el enfoque en los objetivos del proyecto, ayudando a que todos los miembros estuvieran alineados y trabajando en las mismas metas. <br><br> **Sebastian Ramírez Tello** <br> TB: Comprendí que la comunicación escrita es clave para transmitir de manera efectiva el progreso y las conclusiones alcanzadas, lo que facilita la comprensión y la toma de decisiones para los siguientes pasos del proyecto. <br> **Matias Rodolfo Salcedo Champi** <br> TP1: Gracias a la redaccion de mis complañeros en el tema del Spring 2, pude realizar el frontend correctamente a lo indicado <br><br> **Ivan Fernando Sanchez Guevara** <br> TP1: Gracias a la redaccion de mi compañero, pudo indentificar los errores que evitaban que el frontend ejecutara correctamente en todos sus aspectos y arreglarlos correctamente  <br><br> **Jhosep Jamil Argomedo Camacho** <br> TP1: Junto con mi compañero comprendi la importancia de la redaccion a la hora de escribir correctamente los codigos del backend en el spring 2, y asi se vea lo mas ordenado posible <br><br> **Sebastian Ramírez Tello** <br> TP1: Lo que aprendi con la redaccion es siempre tener cuidado con el significado de las palabras, para que el usuario no tuviera problemas a la hora de tener la informacion del frontend, por eso eso priorize que el spring 2 estuviera lo mejor estructurado posible. <br> **Matias Rodolfo Salcedo Champi** <br> TB2: Gracias a la anterior entrega, comprendi la importancia de tener bien en claro las funciones de los bounded context y como lo usaremos en el backend <br><br> **Ivan Fernando Sanchez Guevara** <br> TB2: Aprendi que si un proyecto tiene que esta en las mejores condicines, tienes que escribir de la mejor forma, para que todo los datos esta elejibles y bien estructurados en informacion  <br><br> **Jhosep Jamil Argomedo Camacho** <br> TB2: El backend me enseño la importuncia de estructurarar bien la escritura para que ejecute sin problemas y poder conectarlo a futuro con el frontend mas adelante <br><br> **Sebastian Ramírez Tello** <br> TB2: Logre aprender mas de la logica respecto al backend gracias al trabajo en cuestion, el como tiene que ser configurado, y escrito para que las principales funciones deseadas se ejecute correctamente.                                                                                                                                                                                                                                   |
 <br><br><br><br>
 
 # Capítulo I: Introducción
@@ -4557,6 +4580,175 @@ Observaciones del trabajo colaborativo:
 - Se aplicó una política de pull requests y revisiones por pares antes de integrar a la rama principal.
 - El uso de GitHub Projects permitió gestionar tareas y seguimiento del progreso en tiempo real.
 - La comunicación constante facilitó la resolución de conflictos y el refinamiento del diseño UI/UX.
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+## Pruebas de Usabilidad – Plataforma Web de Agricultura
+
+### Preguntas para Agricultores
+
+#### Diseño general y navegación
+
+- ¿Desde la pantalla principal, supiste rápidamente cómo empezar a usar la plataforma?
+- ¿Te perdiste en algún momento navegando entre las secciones? ¿Dónde?
+- ¿Los íconos o botones te parecieron claros y comprensibles? ¿Alguno te generó dudas?
+- ¿Qué función o acceso agregarías para facilitar tu trabajo diario?
+
+#### Iniciar sesión
+
+- ¿Fue fácil encontrar el botón para iniciar sesión?
+- ¿El proceso de ingreso fue claro y rápido?
+- ¿Tuviste algún problema con el ingreso de usuario o contraseña?
+- ¿Qué mejorarías en esta parte para que sea más sencilla o rápida?
+
+#### Monitorear temperatura de cultivos
+
+- ¿Pudiste encontrar fácilmente la sección de monitoreo de temperatura?
+- ¿La información de temperatura se entiende con claridad (valores, unidades, ubicación)?
+- ¿Te resultó útil la visualización (gráficas, colores, alertas)?
+- ¿Agregarías algún dato o funcionalidad adicional en esta sección?
+
+#### Identificar plagas
+
+- ¿Pudiste acceder fácilmente a la herramienta para identificar plagas?
+- ¿Las imágenes o descripciones de plagas te ayudaron a reconocer lo que ocurre en tus cultivos?
+- ¿Te pareció clara la forma de reportar una plaga o pedir ayuda?
+- ¿Qué mejorarías para que esta sección sea más útil en tu día a día?
+
+#### Ver alertas y notificaciones
+
+- ¿Recibiste las alertas en el momento adecuado?
+- ¿Te pareció clara la información de cada alerta (ubicación, tipo de riesgo, recomendaciones)?
+- ¿Pudiste distinguir fácilmente entre alertas urgentes y otras menos críticas?
+- ¿Qué tipo de alertas te gustaría recibir que aún no están disponibles?
+
+#### Foro comunitario
+
+- ¿Fue fácil encontrar y acceder al foro?
+- ¿Pudiste publicar una pregunta sin dificultad?
+- ¿Te sentiste cómodo/a interactuando con otros agricultores?
+- ¿Qué mejorarías para que el foro sea más útil o fácil de usar?
+
+#### Opinión general
+
+- ¿Qué parte de la plataforma te pareció más útil y cuál más confusa?
+- ¿Hubo algo que no entendiste o que te pareció innecesario?
+- ¿Qué tan fácil fue moverte entre las distintas secciones?
+- ¿Qué cambiarías para que esta plataforma te ayude más en tu trabajo?
+
+---
+
+### Preguntas para Cooperativas y Técnicos
+
+#### Diseño general y navegación
+
+- ¿Te pareció clara la estructura general de la plataforma?
+- ¿Hubo botones o etiquetas que te generaron dudas?
+- ¿Qué mejorarías en la navegación para facilitar tu trabajo?
+
+
+
+#### Monitoreo remoto de Dispoisitvos IoT
+
+- ¿Pudiste acceder fácilmente al monitoreo de parcelas?
+- ¿La información (temperatura, humedad, alertas) fue clara y útil?
+- ¿Te pareció intuitiva la navegación entre diferentes parcelas o zonas?
+- ¿Qué mejorarías para facilitar el seguimiento remoto?
+
+#### Opinion Variada
+
+- ¿Qué tipo de contenidos o formatos te gustaría que se incluyeran?
+- ¿Qué tipo de análisis o visualizaciones te gustaría tener disponibles?
+- ¿Fue fácil agregar usuario?
+- ¿Qué funcionalidades adicionales te ayudarían a gestionar mejor los accesos?
+
+#### 5.2.4.2. Registro de Entrevistas
+
+**User Persona del Segmento Objetivo 1: Agricultores**
+
+| <p align="center"><img width="auto" height="auto" src="images/Entrevistado1.jpg">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado(a):** Fabricio Roncal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Género:** Masculino                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Edad:** 18 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Link de la entrevista (YouTube):** https://www.youtube.com/watch?v=FSpnCvF8BVM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Fabricio Roncal, Es hijo de agricultores, en esta ocasion nos pudo probar nuestra aplicacion webb, para darnos una retroalimentacion respecto a foro, pestaña de temperatura, alertas y notificaciones, entre otras cosas, entre los aspectos positivos nos menciona que le gusta el uso de iconos como guia ademas de proporicionar las informacion principal al inicio de cada pestaña, tambien no da sus pespectiva en lo negativo, como mejorar el reporte de notificaciones, quitar cierto grado de informacion para no agobiar al usuario, ademas de orientarlo en varias plataformas como celular, pero fuera de eso ve a la pagina con potencia|
+
+**User Persona del Segmento Objetivo 2: Cooperativas y Técnicos**
+
+| <p align="center"><img width="auto" height="auto" src="images/Entrevistado2.jpg">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado(a):** Rafael Hernandez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Género:** Masculino                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Edad:** 24 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Link de la entrevista (YouTube):** https://www.youtube.com/watch?v=d-Fh49zNN-Y                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Rafael Hernandez, Es Tecnico capacitado, en esta ocasion nos realizo un feedback respecto a nuestra aplicacion webb, nos comento que la intuicion par entrar tanto como tecnico u agricultor, lo que nos sugirio tambien es aplicar un modo nocturno a nuestro, para los usuarios que trabajan a horas muy tardes en la noche,como tambien nos recomendo hacer un apartado para almacenos para complementar el proposito de la pagina webb, y por ultimo pide que las notificaciones tambien pueda ser llegadas por su celular para estar al pendiente de cualquier problema respecto a la pagina como implementacion de un asistente IA|
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+## SITE o APP A EVALUAR
+**Nombre:** SmartCrop  
+**Objetivo:** Identificar problemas de usabilidad en el sistema web de Gestion respecto a la Agricultura usando la Lista Heurística de Nielsen.
+
+--
+
+
+##  TAREAS A EVALUAR
+
+1. Visualización de Optimizacion de pagina
+2. Disminucion de Informacion para el usuario
+3. Accesibilidad y claridad del menú lateral y Horizontal (ubicación, iconos, diseño)
+4. Claridad de iconografía y etiquetas
+
+## PROBLEMAS DETECTADOS 
+
+| # | Problema detectado | Heurística violada | Severidad |
+|---|--------------------|--------------------|-----------|
+| 1 | Falta de opciones de modo nocturno | Estética y diseño minimalista / Flexibilidad | 3 |
+| 2 | Sobrecarga de informacion en algunos apartados | Control y libertad del usuario  | 2 |
+
+
+---
+
+
+## ESCALA DE SEVERIDAD
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | Problema superficial: sencillamente superado por el usuario o muy frecuencia baja. No es prioritario. |
+| **2** | Problema menor: algo más frecuente o confuso; su arreglo debe esta planteado en una próxima versión. |
+| **3** | Problema mayor: ocurre frecuentemente y ocasiona problemas en el uso normal. Prioridad alta. |
+| **4** | Problema muy grave: no permite el uso correcto del sistema. Debe corregirse antes del lanzamiento. |
+
+## ANÁLISIS HEURÍSTICO DETALLADO
+
+### Problema #01: Falta de opciones de modo nocturno
+
+**Severidad:** 3  
+**Heurística violada:** Estética y diseño minimalista / Flexibilidad  
+
+**Descripción:**  
+La plataforma no ofrece un modo nocturno o de alto contraste, lo que dificulta su uso en condiciones de baja iluminación, especialmente para agricultores que acceden desde el campo en horarios nocturnos o los tecnicos en cuestion. Esto puede generar fatiga visual y reducir la eficiencia en tareas críticas como monitoreo o lectura de alertas.
+
+**Recomendación:**  
+Incluir una opción de modo nocturno accesible desde el menú principal o ajustes del usuario. También se recomienda detectar automáticamente la configuración del sistema operativo para adaptar el tema visual. Esto hara una mejora a la accesibilidad, reduce el esfuerzo de la vision y permite una experiencia más cómoda en distintos entornos.
+
+---
+
+### Problema #02: Sobrecarga de información en algunos apartados
+
+**Severidad:** 2  
+**Heurística violada:** Control y libertad del usuario  
+
+**Descripción:**  
+Algunas secciones como el monitoreo de cultivos o la identificación de plagas presentan demasiada información en un solo bloque, sin jerarquía visual clara. Esto dificulta la lectura rápida, genera confusión y puede llevar a errores en la interpretación de los datos importantes.
+
+**Recomendación:**  
+Aplicar principios de diseño visual jerárquico: agrupar información por contexto, usar títulos claros, colores diferenciados y elementos colapsables. Incorporar filtros o resúmenes iniciales para que el usuario pueda decidir qué nivel de detalle necesita. Esto facilita la toma de decisiones y mejora la eficiencia en tareas operativas.
+
+---
 
 
 
