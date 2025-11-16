@@ -4343,8 +4343,147 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas e
 **Colaboradores activos**
 ![alt text](image-9.png)
 
+
+## 5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+
+El Sprint Planning es la reunión que da inicio al sprint y define qué se va a construir y cómo se logrará. Reúne al equipo Scrum para establecer un objetivo claro (Sprint Goal), seleccionar las historias de usuario más relevantes y descomponerlas en tareas concretas. Esta planificación asegura un enfoque común, organiza el trabajo de forma eficiente y alinea al equipo con la entrega de valor al usuario.
+
+A continuación se mostrará la tabla del Sprint Planning:
+
+| **Sprint #** | Sprint 3 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-26 |
+| **Hour** | 01:00 PM |
+| **Location** | Virtual |
+| **Prepared By** | Jhosep Argomedo |
+| **Attendees (to planning meeting)** | Jamil Argomedo <br> Matias Rodolfo <br> Ivan Fernando <br> Sebastian Ramirez |
+| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo implemento las secciones clave de la aplicación: Tarea, Finca, Usuarios, Monitoreo IoT, Contenido, Alertas y su diseño responsive. |
+| **Sprint n - 3 Retrospective Summary** | Se identificó la necesidad de mejorar la navegación y optimizar el rendimiento en el landing page |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | Finalizar respecto a las funcionalidades pendientes, pulir y estelizar la interfaz de usuario, integrar servicios externos y preparar el producto para pruebas de validación con usuarios. |
+| **Sprint Velocity** |  |
+| **Sum of Story Points** |  |
+### 5.2.3.2. Aspect Leaders and Collaborators
+#### 5.2.3.3. Sprint Backlog 3
+En el sprint backlog 3, enfocamos como prioridad nuestros esfuerzos para el desarrollo del backend del sistema. Utilizando la herramienta enseñada en el curso que es IntelliJ,  avanzamos significativamente en la implementación de la lógica del servidor como la estructuración respecto de los varios *bounded contexts* definidos en la arquitectura del proyecto.
+
+## **Tabla de Control de Estado - Sprint 3**
+
+| sprint # | Sprint 3 | | | | | | |
+|-|-|-|-|-|-|-|-|
+| User<br>Story | | Work-Item / Task | | | | | |
+| ID | Title | ID | Title | Description | Estimation<br>(Hours) | Assigned<br>To | Status<br>(To-do<br>/InProcess<br>/To-Review<br>/Done) |
+| US26 | Leer noticias agrícolas | *TA01* | Implementar un apartado de noticias en la aplicacion | Crear endpoint POST para registrar por con ayuda tambien de apis del tema noticias de agricultura y se almacene respecto a la base de datos. | 6 horas | Jhosep Jamil | Done |
+| US09 | Iniciar sesión | *TA02* | Implementar el apartado de Inicio de Sesión | Desarrollar endpoint POST para autenticación de usuarios| 5 horas | Matias Rodolfo | Done |
+| US23 | Consultar pronóstico meteorológico | *TA03* | Pestaña de Clima | Desarrollar endpoint GET que permita averiguar el tiempo y clima de la semana por medio de la apis | 8 horas | Fernando Sanchez | To-Review |
+| US17 | Recibir Alertas de Plaga | *TA04* | Visualizacion de Alertas de amenzas | Implementar endpoint post para obtener información detallada de las amenzas que presente por. | 10 horas | Sebastian Ramirez | Done |
+| US19 | Monitoreo de Temperatura de Cultivos | *TA05* | Gestión de Temperatura | Crear funcionalidad para recibir por medio de aparatos IoT la temperatura de los cultivos | 12 horas | Jhosep Jamil | Done |
+| US20 | Recibir Alerta de Temperatura Minima | *TA06* | Notificaciones emergencia respecto a los cultivos | Desarrollar endpoint GET para que el usuario Reciba notificaciones cuando su cultivo se reporte alguna amenaza identificada por medio de la base de datos. | 15 horas | Sebastian Ramirez | Done |
+| US05 | Contactar con EcoCrop | *TA07* | Metodo de contacto direacto | Crear un apartado para que el usuario pueda contactarse con nosotros de manera sencilla y directa | 11 horas | Fernando Sanchez | Done |
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el tercer sprint, se implementaron funcionalidades clave como el Getionar Temperatura, Alertas de plagas, Foro para agricultores, despliegue en Netlify, y configuración de infraestructura básica.
+
+
+> [!Note]
+> Se ha enviado todo el desarrollo en un solo commit, debido a que para subir los cambios al repositorio remoto, los integrantes han presentado problemas con el activation token. No obstante, todos han aportado al desarrollo.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|---------|------------|----------------|---------------------|-------------------|
+| https://github.com/SmartCrop-EcoCrop/web-services | main | SRT0808 | doc: add first version of Backend | -- | 2025-10-29 |
+
+
+### 5.2.3.4. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, se logró un gran progreso en la implementación del backend del sistema. Nos enfocamos en la creación de múltiples endpoints RESTful que permiten la gestión de entidades clave como monitoreo, usuarios, cultivos, etc. Todo el código fue desarrollado siguiendo una estetica de arquitectura limpiamy la persistencia adecuada de datos.
+
+Además, se realizó el despliegue exitoso del backend en Netlify, lo que permitió validar el comportamiento del sistema en un entorno de producción. Para verificar la creación, edición y eliminación de datos, se utilizó MySQL workbench, accediendo directamente a la base de datos SQL vinculada al servicio de Render.
+
+Evidencia visual:
+<h3>Backend</h3>
+
+- Datos en bounded context Usuario
+ ![alt text](assets/images/Backend/BC1.jpg)
+
+- Datos en bounded context Condicion_Optica
+ ![alt text](assets/images/Backend/BC2.jpg)
+
+- Datos en bounded context finca
+ ![alt text](assets/images/Backend/BC3.jpg)
+
+- Datos en bounded context noticia
+ ![alt text](assets/images/Backend/BC4.jpg)
+
+- Datos en bounded context tarea
+ ![alt text](assets/images/Backend/BC5.jpg)
+
+- Capturas del Backend deployado
+ ![alt text](assets/images/Backend/FuncionBackend.jpg)
+
+ A continuacion se muestra la evidencia de despliegue del backend entrando al siguiente enlace:   
+ https://smart-crop-app-rafael.netlify.app/
+
+ **Enlace a Video About the product**  
+Ademas presentamos un video explicativo de las funcionalidades en el frontend:
+https://drive.google.com/drive/folders/1P31z9VCUN_660YaP5muGA7BTqyyZH4eZ
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de endpoints desarrollados como parte del alcance del Sprint 3. Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios respecto del Backend.
+
+#### Backend en IntelliJ IDEA
+
+En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driven Design (DDD)**, estructurando la lógica en **Bounded Contexts** perfectamentes definidos y separados. Cada contexto encapsula su propio modelo de dominio, comportamientos y reglas de negocio, lo que permite una arquitectura modular, mantenible y alineada con el negocio.
+![alt text](assets/images/Backend/Backendcode_1.jpg)
+![alt text](assets/images/Backend/Backendcode_2.jpg)
+
+#### Bounded Contexts
+
+- **Tarea** – Manejo de actividades por hacer.
+- **Finca** – Gestión de Propiedad.
+- **Usuario** – Información general y roles del sistema
+- **Monitoreo IoT** – Gestión de dispositivos IoT en los cultivos.
+- **Contenido** – Publicacion de Noticias y contenido social.
+- **Alerta** – Publicaciones de alarma respecto a la Finca.
+
+####  Buenas Prácticas Aplicadas
+- Separación clara de **entidades de dominio**.
+- Control de errores centralizado.
+- Arquitectura lista para pruebas, integración y ampliación.
+
+
+###  Tarea Bounded Context
+
+**TareaController**
+
+| Tag      | HTTP Verbs | Endpoint                     | Summary           | Description                           | OperationId    |
+|----------|------------|------------------------------|-------------------|---------------------------------------|----------------|
+| Tarea | PUT        | /api/v1/tareas/{idTarea}/pendiente | List profiles     | Retrieve all registered profiles      | GetAllProfiles |
+| Tarea | PUT        | /api/v1/tareas/{idTarea}/Completar | Create profile    | Register a new profile                | CreateProfile  |
+| Tarea | POST       | /api/v1/tareas | Get profile by ID | Retrieve a profile by its ID          | GetProfileById |
+| Tarea | GET        | /api/v1/tareas/ | Update profile    | Update existing profile information   | UpdateProfile  |
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Conclusiones 
 <p>El proyecto <b>SmartCrop-EcoCrop</b> ha logrado definir y materializar componentes fundamentales durante el Sprint 1, tales como la landing page y sus secciones principales (Home, Partners y Pie de Página, Servicios, Sobre Nosotros, Testimonios y Contacto). Estos avances evidencian un enfoque claro en transmitir la propuesta de valor y generar confianza en los usuarios desde el primer contacto. Sin embargo, la funcionalidad técnica de la plataforma aún se encuentra en fases iniciales, lo que implica que en los siguientes sprints será crucial fortalecer la integración con el backend y las funcionalidades principales del producto.</p>
+
 
 <p>Se observa un esfuerzo consistente en priorizar el diseño y la experiencia de usuario. La estructura de la landing page, la claridad en la comunicación del valor del producto y la navegación intuitiva son fortalezas del proyecto. Aun así, persisten oportunidades de mejora en aspectos técnicos como la velocidad de carga, la optimización para dispositivos móviles y la consistencia tipográfica. Las evaluaciones heurísticas y futuras pruebas con usuarios permitirán identificar ajustes que mejoren aún más la usabilidad y refuercen la percepción de confiabilidad de la plataforma.</p>
 
