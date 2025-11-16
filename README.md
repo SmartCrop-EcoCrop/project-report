@@ -4472,11 +4472,11 @@ En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driv
 
 | Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Finca | GET | `/api/v1/fincas/{idFinca}` | Obtener Finca | Recupera los detalles de una finca específica por ID | `GetFincaById` |
-| Finca | PUT | `/api/v1/fincas/{idFinca}` | Actualizar Finca | Modifica los datos registrados de una finca existente | `UpdateFinca` |
-| Finca | DELETE | `/api/v1/fincas/{idFinca}` | Eliminar Finca | Elimina el registro de una finca del sistema | `DeleteFinca` |
-| Finca | POST | `/api/v1/fincas` | Registrar Finca | Crea un nuevo registro de propiedad/finca | `CreateFinca` |
-| Finca | GET | `/api/v1/fincas/usuario/{idUsuario}` | Listar por Usuario | Obtiene todas las fincas asociadas a un usuario | `GetFincasByUsuario` |
+| Finca | GET | `/api/v1/fincas/{idFinca}` | Get Farm | Retrieve details of a specific farm by ID | `GetFincaById` |
+| Finca | PUT | `/api/v1/fincas/{idFinca}` | Update Farm | Modify existing farm registration data | `UpdateFinca` |
+| Finca | DELETE | `/api/v1/fincas/{idFinca}` | Delete Farm | Remove a farm record from the system | `DeleteFinca` |
+| Finca | POST | `/api/v1/fincas` | Register Farm | Create a new property/farm record | `CreateFinca` |
+| Finca | GET | `/api/v1/fincas/usuario/{idUsuario}` | List User Farms | Retrieve all farms associated with a specific user | `GetFincasByUsuario` |
 
 ### Usuario Bounded Context
 
@@ -4484,9 +4484,9 @@ En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driv
 
 | Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Usuario | POST | `/api/v1/usuarios/registro` | Registrar Usuario | Crea una nueva cuenta de agricultor o administrador | `RegisterUser` |
-| Usuario | POST | `/api/v1/usuarios/login` | Iniciar Sesión | Autentica al usuario y devuelve credenciales de acceso | `LoginUser` |
-| Usuario | GET | `/api/v1/usuarios/{idUsuario}` | Perfil de Usuario | Recupera la información del perfil del usuario | `GetUserProfile` |
+| Usuario | POST | `/api/v1/usuarios/registro` | Register User | Create a new farmer or administrator account | `RegisterUser` |
+| Usuario | POST | `/api/v1/usuarios/login` | Login User | Authenticate user and return access credentials | `LoginUser` |
+| Usuario | GET | `/api/v1/usuarios/{idUsuario}` | Get User Profile | Retrieve profile information for a specific user | `GetUserProfile` |
 
 ### Monitoreo IoT Bounded Context
 
@@ -4494,8 +4494,8 @@ En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driv
 
 | Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Monitoreo | POST | `/api/v1/monitoreo/ingestar` | Ingesta de Datos | Recibe datos de temperatura/humedad desde sensores IoT | `IngestSensorData` |
-| Monitoreo | GET | `/api/v1/monitoreo/historial/{idDispositivo}` | Historial Dispositivo | Obtiene el histórico de mediciones de un sensor | `GetDeviceHistory` |
+| Monitoreo | POST | `/api/v1/monitoreo/ingestar` | Ingest Data | Receive temperature/humidity data from IoT sensors | `IngestSensorData` |
+| Monitoreo | GET | `/api/v1/monitoreo/historial/{idDispositivo}` | Device History | Retrieve historical measurements for a specific sensor | `GetDeviceHistory` |
 
 ### Contenido Bounded Context
 
@@ -4503,11 +4503,11 @@ En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driv
 
 | Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Contenido | POST | `/api/v1/contenido/noticias` | Publicar Noticia | Crea una nueva noticia agrícola | `CreateNews` |
-| Contenido | POST | `/api/v1/contenido/comentar` | Comentar | Agrega un comentario a una publicación o guía | `AddComment` |
-| Contenido | GET | `/api/v1/contenido/noticias/recientes` | Noticias Recientes | Lista las últimas noticias agregadas al sistema | `GetRecentNews` |
-| Contenido | GET | `/api/v1/contenido/guias` | Listar Guías | Obtiene el listado de guías y tutoriales disponibles | `GetGuides` |
-| Contenido | GET | `/api/v1/contenido/comentarios/recientes` | Comentarios Recientes | Muestra los últimos comentarios de la comunidad | `GetRecentComments` |
+| Contenido | POST | `/api/v1/contenido/noticias` | Publish News | Create a new agricultural news post | `CreateNews` |
+| Contenido | POST | `/api/v1/contenido/comentar` | Add Comment | Add a comment to a publication or guide | `AddComment` |
+| Contenido | GET | `/api/v1/contenido/noticias/recientes` | Recent News | List the latest news added to the system | `GetRecentNews` |
+| Contenido | GET | `/api/v1/contenido/guias` | List Guides | Retrieve the list of available guides and tutorials | `GetGuides` |
+| Contenido | GET | `/api/v1/contenido/comentarios/recientes` | Recent Comments | Show the latest comments from the community | `GetRecentComments` |
 
 ### Alerta Bounded Context
 
@@ -4515,11 +4515,11 @@ En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driv
 
 | Tag | HTTP Verbs | Endpoint | Summary | Description | OperationId |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Alerta | POST | `/api/v1/alertas/evaluar-datos-prueba` | Evaluar Riesgos | Analiza datos entrantes para detectar plagas o clima adverso | `EvaluateRiskData` |
-| Alerta | GET | `/api/v1/alertas/reglas-optimas` | Reglas de Negocio | Obtiene los parámetros configurados para disparar alertas | `GetAlertRules` |
-| Alerta | GET | `/api/v1/alertas/parcela/{idParcela}/activas` | Alertas Activas | Lista las alertas vigentes para una parcela específica | `GetActiveAlertsByParcela` |
+| Alerta | POST | `/api/v1/alertas/evaluar-datos-prueba` | Evaluate Risks | Analyze incoming data to detect pests or adverse climate | `EvaluateRiskData` |
+| Alerta | GET | `/api/v1/alertas/reglas-optimas` | Get Business Rules | Retrieve configured parameters for triggering alerts | `GetAlertRules` |
+| Alerta | GET | `/api/v1/alertas/parcela/{idParcela}/activas` | Active Alerts | List active alerts for a specific land plot | `GetActiveAlertsByParcela` |
 
----
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
  En esta entrega se ha finalizado la implementación de la lógica de negocio restante, junto con la optimización y estilización de la experiencia visual (UI).
