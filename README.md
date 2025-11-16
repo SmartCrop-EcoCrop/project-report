@@ -4468,9 +4468,25 @@ En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driv
 
 
 ---
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+ En esta entrega se ha finalizado la implementación de la lógica de negocio restante, junto con la optimización y estilización de la experiencia visual (UI).
 
+Se realizó la integración exitosa de servicios de terceros, consolidando una versión estable del producto que cumple con los requisitos necesarios para la ejecución de pruebas de aceptación y validación.
 
+### Validación de Funcionalidades Desplegadas (Sprint 3)
+
+A continuación se presenta el estado operativo de los módulos críticos en el entorno de producción (Netlify + Backend):
+
+| Aspecto Evaluado | Estado Sprint 3 | Observaciones |
+| :--- | :---: | :--- |
+| **Disponibilidad** | ✅ Online | Accesible públicamente mediante enlace de Netlify. Backend respondiendo solicitudes. |
+| **Autenticación** | ✅ Funcional | Endpoints de seguridad integrados. Validación contra base de datos MySQL. |
+| **Monitoreo IoT** | ✅ Implementado | Visualización de temperatura de cultivos y lógica de alertas de mínimos activa. |
+| **Gestión Core** | ✅ Integrado | CRUD de Fincas y Tareas conectado a los *Bounded Contexts*. Persistencia verificada. |
+| **Servicios Externos** | ✅ Conectado | Consumo exitoso de APIs para Pronóstico Meteorológico y Noticias Agrícolas. |
+| **Alertas** | ✅ Activo | Notificaciones de plagas y emergencias visibles en el dashboard. |
+| **Bugs/Estabilidad** | ⚠️ En revisión | Funcionalidad core estable. Se detectó leve latencia en carga de noticias (optimización pendiente). |
 
 
 
