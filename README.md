@@ -4501,10 +4501,10 @@ La colaboración del equipo durante el **Sprint 3** se orientó a la finalizaci�
 
 Observaciones del trabajo colaborativo:
 
-Se establecieron ramas de desarrollo separadas por módulo para evitar conflictos de código.
-Se aplicó una política de pull requests y revisiones por pares antes de integrar a la rama principal.
-El uso de GitHub Projects permitió gestionar tareas y seguimiento del progreso en tiempo real.
-La comunicación constante facilitó la resolución de conflictos y el refinamiento del diseño UI/UX.
+- Se establecieron ramas de desarrollo separadas  por módulo para evitar conflictos de código.
+- Se aplicó una política de pull requests y revisiones por pares antes de integrar a la rama principal.
+- El uso de GitHub Projects permitió gestionar tareas y seguimiento del progreso en tiempo real.
+- La comunicación constante facilitó la resolución de conflictos y el refinamiento del diseño UI/UX.
 
 
 
