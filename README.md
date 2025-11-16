@@ -4499,7 +4499,12 @@ La colaboración del equipo durante el **Sprint 3** se orientó a la finalizaci�
 | **Sanchez Guevara, Ivan Fernando** | Integración de **APIs externas** para el pronóstico meteorológico y desarrollo del canal de contacto/soporte. |
 | **Ramírez Tello, Sebastian** | Construcción del sistema de **Alertas y Notificaciones**, enfocándose en detección de plagas y temperaturas críticas. |
 
+Observaciones del trabajo colaborativo:
 
+Se establecieron ramas de desarrollo separadas por módulo para evitar conflictos de código.
+Se aplicó una política de pull requests y revisiones por pares antes de integrar a la rama principal.
+El uso de GitHub Projects permitió gestionar tareas y seguimiento del progreso en tiempo real.
+La comunicación constante facilitó la resolución de conflictos y el refinamiento del diseño UI/UX.
 
 
 
