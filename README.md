@@ -4488,6 +4488,16 @@ A continuación se presenta el estado operativo de los módulos críticos en el 
 | **Alertas** | ✅ Activo | Notificaciones de plagas y emergencias visibles en el dashboard. |
 | **Bugs/Estabilidad** | ⚠️ En revisión | Funcionalidad core estable. Se detectó leve latencia en carga de noticias (optimización pendiente). |
 
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+La colaboración del equipo durante el **Sprint 3** se orientó a la finalización de la lógica de negocio en el Backend y su integración total con la interfaz de usuario. El trabajo se distribuyó respetando la arquitectura de *Bounded Contexts*, asegurando que servicios críticos como IoT, alertas y consumo de APIs externas funcionaran armónicamente antes del despliegue final en producción.
+
+| Integrante | Actividad Principal en Sprint 3 |
+| :--- | :--- |
+| **Argomedo Camacho, Jhosep Jamil** | Desarrollo de lógica para **Monitoreo IoT** (Temperatura) y gestión de contenido para el módulo de Noticias Agrícolas. |
+| **Salcedo Champi, Matias Rodolfo** | Implementación segura del **Inicio de Sesión (Login)** y validación de credenciales de usuario en el Backend. |
+| **Sanchez Guevara, Ivan Fernando** | Integración de **APIs externas** para el pronóstico meteorológico y desarrollo del canal de contacto/soporte. |
+| **Ramírez Tello, Sebastian** | Construcción del sistema de **Alertas y Notificaciones**, enfocándose en detección de plagas y temperaturas críticas. |
 
 
 
