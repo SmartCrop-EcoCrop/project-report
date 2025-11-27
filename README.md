@@ -3,13 +3,15 @@
 <img src="assets/images/common/logo/logo_upc.png" width="100">
 
 ##### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-#### Ingeniería de Software
-###### 5to ciclo
+#### Facultad: Ingeniería
+#### Carrera: Ingenieria de software
 
 <br>
 
 #### Desarrollo de Aplicaciones Open Source
-#### **Sección:** 7357
+#### **Periodo:** 202520
+#### **Código del curso:**  1ASI0729
+#### **NRC:** 7357
 
 <br>
 
@@ -21,18 +23,20 @@
 
 <br>
 
-### "EcoCrop"
+### **Nombre de la startup:** "EcoCrop"
 
-### "SmartCrop"
+### **Nombre del producto:** "SmartCrop"
 
 <br>
 
 ### **Integrantes**
 
-Argomedo Camacho, Jhosep Jamil - u20231D978 <br>
-Salcedo Champi, Matias Rodolfo  - u202319698 <br>
-Sanchez Guevara, Ivan Fernando  - u202218181 <br>
-Ramirez Tello, Sebastian - u202316122
+| Nombre | Código |
+| :--- | :--- |
+| Argomedo Camacho, Jhosep Jamil | u20231D978 |
+| Salcedo Champi, Matias Rodolfo | u202319698 |
+| Sanchez Guevara, Ivan Fernando | u202218181 |
+| Ramirez Tello, Sebastian | u202316122 |
 
 <br>
 
