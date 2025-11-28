@@ -4793,7 +4793,7 @@ A continuación, se muestra un resumen del estado de testing al cierre del Sprin
 |------------------------------|------------------------------------------------------------------------------|
 | Conexión FrontEnd-BackEnd    | Se concreto de forma efectiva la conexión entre el ForntEnd y BackEnd del proyecto para mostrar el contenido respectivo                |
 | Pruebas locales            | De manera local cada uno de los miembros del equipo realizó pruebas de manera local para probar la respuesta entre los servicios que se mostraban en el BackEnd y como se reflejarian estos en nuestro FrontEnd                     |
-| Herramientas utilizadas      | IntelliJ IDEA, MySQL workbench, Swagger UI. |
+| Herramientas utilizadas      | IntelliJ IDEA, MySQL workbench, netlify. |
 | Estado general de testing    | Funcionalidad comprobada de forma exitosa                                   |
 
 #### 5.2.4.8. Execution Evidence for Sprint Review
