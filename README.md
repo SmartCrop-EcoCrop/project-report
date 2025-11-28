@@ -4813,10 +4813,23 @@ En este sprint, hemos logrado mejoras significativas en el desarrollo del fronte
 
 
 # Video About-the-product
+En este video, el equipo presenta a cámara una narración sobre el desarrollo de SmartCrop, recorriendo las distintas etapas del proyecto: desde la idea inicial hasta su implementación final.
+
+Cada integrante comparte su experiencia, explicando su rol, los desafíos enfrentados y las soluciones aplicadas. También se destacan los principales logros del equipo, como la creación de una interfaz accesible y la incorporación de funciones clave para el cuidado de cultivo responsable.
+
+El video cierra con una reflexión grupal sobre lo aprendido, valorando tanto el crecimiento técnico como las habilidades blandas desarrolladas. Todos agradecemos la experiencia y mencionamos nuestro aporte al proyecto.
 
 https://youtu.be/7noGMxTq5rw
 
 # Video About-the-team
+
+En esta sección, el equipo presenta un resumen de los aspectos más relevantes del video "About The Product – SmartCrop". El video muestra en detalle las características principales de la aplicación web, enfocándose en cómo la integración de tecnología IoT e Inteligencia Artificial ha sido diseñada para responder a las necesidades críticas de los agricultores frente a la gestión de plagas y los cambios climáticos imprevistos.
+
+A lo largo del video, se presentan demostraciones visuales de la aplicación en funcionamiento, incluyendo flujos clave como el monitoreo en tiempo real de la temperatura de los cultivos mediante sensores, la recepción de alertas automáticas con identificación de plagas, la gestión de perfiles de cultivos y la interacción dentro de la red comunitaria de agricultores.
+
+La narración guía al espectador a través de la experiencia del usuario (User Journey), destacando la interfaz intuitiva y accesible pensada para zonas rurales. Se evidencia el valor que aporta SmartCrop al transformar datos técnicos en recomendaciones prácticas, permitiendo a los agricultores tomar decisiones preventivas rápidas y conectar con expertos para salvaguardar su producción.
+
+Este video no solo presenta el producto, sino que lo contextualiza como una solución tecnológica integral y accesible para un problema económico y social, demostrando su capacidad para modernizar la agricultura tradicional, reducir pérdidas y promover la sostenibilidad.
 
 https://youtu.be/YYt8RJ1qkMk
 
