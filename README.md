@@ -8,14 +8,15 @@
 
 <br>
 
-#### Desarrollo de Aplicaciones Open Source
+
 #### **Periodo:** 202520
 #### **Código del curso:**  1ASI0729
+#### **Nombre del curso:** Desarrollo de Aplicaciones Open Source
 #### **NRC:** 7357
 
 <br>
 
-#### **Profesor:** Rafael Oswaldo Castro Veramendi
+#### **Nombre del profesor:** Rafael Oswaldo Castro Veramendi
 
 <br>
 
@@ -23,15 +24,18 @@
 
 <br>
 
-### **Nombre de la startup:** "EcoCrop"
+### **Nombre del startup:** "EcoCrop"
 
 ### **Nombre del producto:** "SmartCrop"
 
+
 <br>
+
+### Relacion de integrantes
 
 ### **Integrantes**
 
-| Nombre | Código |
+| Apellidos y Nombres | Código |
 | :--- | :--- |
 | Argomedo Camacho, Jhosep Jamil | u20231D978 |
 | Salcedo Champi, Matias Rodolfo | u202319698 |
@@ -40,7 +44,7 @@
 
 <br>
 
-### Noviembre, 2025
+### Diciembre, 2025
 
 </div>
 
@@ -90,11 +94,6 @@ A continuación, se muestran evidencias gráficas que ilustran la participación
 
 ---
 
-### URLs de Otros Repositorios Importantes
-
-|                        **URL de criterios de aceptación**                        |
-| :------------------------------------------------------------------------------: |
-| [Acceptance Tests GitHub](https://github.com/SmartCrop-EcoCrop/acceptance-tests) |
 
 ---
 
