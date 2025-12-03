@@ -50,16 +50,12 @@
 <div style="page-break-after: always;"></div>
 <br><br><br><br>
 
-## Registro de Versiones del Informe
-
-| **Versión** | **Fecha** | **Autor** | **Descripción de modificación**  |
-| ----------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1         | 18/09/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de capítulos: <br> **Capítulo I:** Introducción <br> **Capítulo II:** Requirements Elicitation & Analysis <br> **Capítulo III:** Requirements Specification <br> **Capítulo IV:** Product Design <br> **Capítulo V:** Product Implementation, Validation & Deployment <br> **Sprint 1:** Landing Page <br> Conclusiones <br> Bibliografía |
-| TP1         | 10/10/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 2|
-| TB2         | 10/10/25   | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo  (U202319698); <br> Sanchez Guevara, Ivan Fernando  (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 3|
-
-
-<br><br><br><br>
+| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
+| :--- | :--- | :--- | :--- |
+| TB1 | 18/09/25 | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo (U202319698); <br> Sanchez Guevara, Ivan Fernando (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de capítulos: <br> **Capítulo I:** Introducción <br> **Capítulo II:** Requirements Elicitation & Analysis <br> **Capítulo III:** Requirements Specification <br> **Capítulo IV:** Product Design <br> **Capítulo V:** Product Implementation, Validation & Deployment <br> **Sprint 1:** Landing Page <br> Conclusiones <br> Bibliografía |
+| TP1 | 10/10/25 | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo (U202319698); <br> Sanchez Guevara, Ivan Fernando (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 2 |
+| TB2 | 10/10/25 | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo (U202319698); <br> Sanchez Guevara, Ivan Fernando (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 3 |
+| TF1 | 03/12/25 | Argomedo Camacho, Jhosep Jamil (U20231D978); <br> Salcedo Champi, Matias Rodolfo (U202319698); <br> Sanchez Guevara, Ivan Fernando (U202218181); <br> Ramírez Tello, Sebastian (U202316122) | Adición de sección: <br> Sprint 4 |
 
 ## Project Report Collaboration Insights
 
