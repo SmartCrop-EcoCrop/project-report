@@ -4680,6 +4680,19 @@ Observaciones del trabajo colaborativo:
 | **Link de la entrevista (YouTube):** https://www.youtube.com/watch?v=FSpnCvF8BVM  |
 | Fabricio Roncal, Es hijo de agricultores, en esta ocasion nos pudo probar nuestra aplicacion webb, para darnos una retroalimentacion respecto a foro, pestaña de temperatura, alertas y notificaciones, entre otras cosas, entre los aspectos positivos nos menciona que le gusta el uso de iconos como guia ademas de proporicionar las informacion principal al inicio de cada pestaña, tambien no da sus pespectiva en lo negativo, como mejorar el reporte de notificaciones, quitar cierto grado de informacion para no agobiar al usuario, ademas de orientarlo en varias plataformas como celular, pero fuera de eso ve a la pagina con potencia|
 
+| **Entrevistado(a):** Andrea Roncal  |
+| **Género:** Femenino  |
+| **Edad:** 27 años   |
+| **Link de la entrevista (Drive):** https://drive.google.com/drive/u/0/folders/11DpxGglZ5x14g7u-0PSW7-SatwEg9AWW  |
+| Andrea Roncal, Es una agricultora aficionada, en esta ocasion pudo probar la aplicacion webb, nos dio la retroalimentacion de que le gustaria ver mas respecto el tema de noticias, ya que siente que puede ser muy importante a futuro de las personas que entren a la aplicacion webb, como tambien nos felicita del diseño de la aplicacion webb|
+
+| **Entrevistado(a):** Luis Roncal  |
+| **Género:** Masculino  |
+| **Edad:** 35 años   |
+| **Link de la entrevista (Drive):** https://drive.google.com/drive/u/0/folders/1j9a_MvyKxR7neN3ajZuQdTkHRC0L92vI  |
+| Luis Roncal, Es un agricultora de una gran familia, en esta ocasion pudo probar la aplicacion webb, dijo que estaba bien el interface, pero que hacia falta mas informacion respecto al clima y las plagas, no pide que si podamos implementemos mas fuentes referente a las plagas para ayudar a agricultores principiantes entre otros, luego nos dice que el diseño le gusta aunque le gustaria un poco mas colorido, pero lo deja a opinion personal|
+
+
 **User Persona del Segmento Objetivo 2: Cooperativas y Técnicos**
 
 | <p align="center"><img width="auto" height="auto" src="images/Entrevistado2.jpg">  |
@@ -4689,6 +4702,24 @@ Observaciones del trabajo colaborativo:
 | **Edad:** 24 años   |
 | **Link de la entrevista (YouTube):** https://www.youtube.com/watch?v=d-Fh49zNN-Y  |
 | Rafael Hernandez, Es Tecnico capacitado, en esta ocasion nos realizo un feedback respecto a nuestra aplicacion webb, nos comento que la intuicion par entrar tanto como tecnico u agricultor, lo que nos sugirio tambien es aplicar un modo nocturno a nuestro, para los usuarios que trabajan a horas muy tardes en la noche,como tambien nos recomendo hacer un apartado para almacenos para complementar el proposito de la pagina webb, y por ultimo pide que las notificaciones tambien pueda ser llegadas por su celular para estar al pendiente de cualquier problema respecto a la pagina como implementacion de un asistente IA|
+
+| **Entrevistado(a):** José Alberto |
+| **Género:** Masculino    |
+| **Edad:** 26 años   |
+| **Link de la entrevista (Drive):** https://drive.google.com/drive/u/0/folders/1oMXQPwx_Yxgk4PyQ5_AkSqIEinmpIu5q  |
+| José Alberto, Es otro Tecnico capacitado, en esta ocasion recibimos retroalimentación sobre nuestra aplicación web. Se destacó que la interfaz debe ser intuitiva tanto para técnicos como para agricultores. Además, se sugirió incorporar un asistente virtual para la ayuda. También se recomendó habilitar un apartado específico para almacenamiento de datos de temperatura, y por ultimo nos pidio que mejoremos el apartado de alertas aunque no lo ve prioritario por el momento
+|
+
+
+
+
+| **Entrevistado(a):** Carolina Esquivel  |
+| **Género:** Femenino    |
+| **Edad:** 28 años   |
+| **Link de la entrevista (Drive):** https://drive.google.com/drive/u/0/folders/1olDaZ31JMuvtmLcIX08mfQOzKmdgFeIi  |
+| Carolina Esquivel, Es una Tecnica de renombre, en esta ocasion recibimos retroalimentación sobre nuestra aplicación web. Destaco mucho el interface, siendo que es lo que mas le gusto de todo de la app webb, nos dijo que deberiamos mejorar los apartados de foro y que usemos mas referencias de paginas de renombre para la informacion dada, luego de eso vio un gran manejo respecto en lo visual y usabilidad
+|
+
 
 #### 5.3.3. Evaluaciones según heurísticas
 
@@ -4810,9 +4841,37 @@ En este sprint, hemos logrado mejoras significativas en el desarrollo del fronte
 **Capturas de Pantalla del FrontEnd mejorado**
 - Mejora en bounded context IAM - Crear cuenta
 
+<p align="center"><img width="auto" height="auto" src="Assets/CSesionFront.png">
+
 - Mejora en bounded context IAM - Iniciar Sesión
 
+<p align="center"><img width="auto" height="auto" src="Assets/ISesionFront.png">
+
 - Mejora en bounded context Profile - Visualización de Información
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte1.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte2.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte3.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte4.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte5.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte6.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte7.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte8.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte9.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte11.png">
+
+<p align="center"><img width="auto" height="auto" src="Mejora/InfoFronte11.png">
+
+
 
 
 
@@ -4823,7 +4882,7 @@ Cada integrante comparte su experiencia, explicando su rol, los desafíos enfren
 
 El video cierra con una reflexión grupal sobre lo aprendido, valorando tanto el crecimiento técnico como las habilidades blandas desarrolladas. Todos agradecemos la experiencia y mencionamos nuestro aporte al proyecto.
 
-https://youtu.be/7noGMxTq5rw
+https://drive.google.com/drive/u/0/folders/11fDNgIsumnRNuQL77J6b5RRKlDT-OGQv
 
 # Video About-the-team
 
